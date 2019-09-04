@@ -19,7 +19,13 @@ public class SmartshopApplication {
     }
     @RequestMapping("/")
     String home(){
-        return "Welcom to my Doughnut Cafe";
+        return String.format("Welcom to my Doughnut Cafe \n  how to use this site" +
+                "\n add /promotion behind localhost:8080 to see all promotion" +
+                "\n add /promotion/{anynumber} behind localhost:8080 to see specific promotion" +
+                "\n add /promotion/add/{anynumber} behind localhost:8080 to add promotion to shopping cart" +
+                "\n add /promotion/remove/{anynumber} behind localhost:8080 to remove promotion from shopping cart" +
+                "\n add /cart behind localhost:8080 to see all promotion in shopping cart" +
+                "\n add /pay behind localhost:8080 to pay all promotion in shopping cart");
     }
 
     @RequestMapping("/promotion")
