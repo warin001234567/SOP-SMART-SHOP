@@ -32,7 +32,8 @@ public class SmartshopApplication {
                 "<br> add /promotion/add/{anynumber} behind localhost:8080 to add promotion to shopping cart" +
                 "<br> add /promotion/remove/{anynumber} behind localhost:8080 to remove promotion from shopping cart" +
                 "<br> add /cart behind localhost:8080 to see all promotion in shopping cart" +
-                "<br> add /pay behind localhost:8080 to pay all promotion in shopping cart";
+                "<br> add /pay behind localhost:8080 to pay all promotion in shopping cart" +
+                "<br> add /cartlog behind localhost:8080 to see all sell history";
     }
 
     @RequestMapping("/promotion")
