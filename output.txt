@@ -1,0 +1,60 @@
+Name of promotion: Promotion C<br>
+Detail: Mix and Macth and Free 3 tea<br>
+Doughnut: , Caramel Cookies, Chocolate Fudge, Butter Cheese, Strawberry Glamour Glazed, Sugar, Cookies & Cream, Chocolate Iced Glazed, Chocoholic Dream<br>
+Tea: , Original Tea, Milk Tea, Green Tea<br>
+Price: 289.0<br>
+-----------end promotion-------<br>
+Name of promotion: Promotion C<br>
+Detail: Mix and Macth and Free 3 tea<br>
+Doughnut: , Caramel Cookies, Chocolate Fudge, Butter Cheese, Strawberry Glamour Glazed, Sugar, Cookies & Cream, Chocolate Iced Glazed, Chocoholic Dream, Caramel Cookies, Chocolate Fudge, Butter Cheese, Strawberry Glamour Glazed, Sugar, Cookies & Cream, Chocolate Iced Glazed, Chocoholic Dream<br>
+Tea: , Original Tea, Milk Tea, Green Tea, Original Tea, Milk Tea, Green Tea<br>
+Price: 289.0<br>
+-----------end promotion-------<br>
+Name of promotion: Promotion C<br>
+Detail: Mix and Macth and Free 3 tea<br>
+Doughnut: , Caramel Cookies, Chocolate Fudge, Butter Cheese, Strawberry Glamour Glazed, Sugar, Cookies & Cream, Chocolate Iced Glazed, Chocoholic Dream, Caramel Cookies, Chocolate Fudge, Butter Cheese, Strawberry Glamour Glazed, Sugar, Cookies & Cream, Chocolate Iced Glazed, Chocoholic Dream, Caramel Cookies, Chocolate Fudge, Butter Cheese, Strawberry Glamour Glazed, Sugar, Cookies & Cream, Chocolate Iced Glazed, Chocoholic Dream<br>
+Tea: , Original Tea, Milk Tea, Green Tea, Original Tea, Milk Tea, Green Tea, Original Tea, Milk Tea, Green Tea<br>
+Price: 289.0<br>
+-----------end promotion-------<br>
+Name of promotion: Promotion A<br>
+Detail: original doughnut and free tea<br>
+Doughnut: , Original Glazed<br>
+Tea: , Original Tea<br>
+Price: 89.0<br>
+-----------end promotion-------<br>
+Name of promotion: Promotion B<br>
+Detail: Mix and Macth and Free 2 tea<br>
+Doughnut: , Original Glazed, Original Glazed, Green Tea Nuts, Green Tea Cookie, Caramel Cookies, Chocolate Fudge, Butter Cheese, Strawberry Glamour Glazed<br>
+Tea: , Original Tea, Original Tea, Milk Tea<br>
+Price: 189.0<br>
+-----------end promotion-------<br>
+Name of promotion: Promotion B<br>
+Detail: Mix and Macth and Free 2 tea<br>
+Doughnut: , Original Glazed, Original Glazed, Green Tea Nuts, Green Tea Cookie, Caramel Cookies, Chocolate Fudge, Butter Cheese, Strawberry Glamour Glazed, Original Glazed, Green Tea Nuts, Green Tea Cookie, Caramel Cookies, Chocolate Fudge, Butter Cheese, Strawberry Glamour Glazed<br>
+Tea: , Original Tea, Original Tea, Milk Tea, Original Tea, Milk Tea<br>
+Price: 189.0<br>
+-----------end promotion-------<br>
+Name of promotion: Promotion B<br>
+Detail: Mix and Macth and Free 2 tea<br>
+Doughnut: , Original Glazed, Original Glazed, Green Tea Nuts, Green Tea Cookie, Caramel Cookies, Chocolate Fudge, Butter Cheese, Strawberry Glamour Glazed, Original Glazed, Green Tea Nuts, Green Tea Cookie, Caramel Cookies, Chocolate Fudge, Butter Cheese, Strawberry Glamour Glazed, Original Glazed, Green Tea Nuts, Green Tea Cookie, Caramel Cookies, Chocolate Fudge, Butter Cheese, Strawberry Glamour Glazed<br>
+Tea: , Original Tea, Original Tea, Milk Tea, Original Tea, Milk Tea, Original Tea, Milk Tea<br>
+Price: 189.0<br>
+-----------end promotion-------<br>
+Name of promotion: Promotion A<br>
+Detail: original doughnut and free tea<br>
+Doughnut: , Original Glazed<br>
+Tea: , Original Tea<br>
+Price: 89.0<br>
+-----------end promotion-------<br>
+Name of promotion: Promotion A<br>
+Detail: original doughnut and free tea<br>
+Doughnut: , Original Glazed, Original Glazed<br>
+Tea: , Original Tea, Original Tea<br>
+Price: 89.0<br>
+-----------end promotion-------<br>
+Name of promotion: Promotion A<br>
+Detail: original doughnut and free tea<br>
+Doughnut: , Original Glazed, Original Glazed, Original Glazed<br>
+Tea: , Original Tea, Original Tea, Original Tea<br>
+Price: 89.0<br>
+-----------end promotion-------<br>
